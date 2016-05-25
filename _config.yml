@@ -1,0 +1,14 @@
+layout_spectrum: 0.8238436912652105
+typography_spectrum: 0.851578721543774
+color:
+  brandStrength: 0.1736419601365924
+  lightness: 0.7788808140903711
+  saturation: 0.06718321796506643
+  rhythmicContrast: 0.2747756594326347
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Lankford Labs
